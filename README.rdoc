@@ -1,0 +1,12 @@
+= Item cart rails with react demo application 
+
+This is modified demo application created on Pluralsight: 
+=== {Building a CRUD interface with React and Ruby on Rails}[link:http://tutorials.pluralsight.com/ruby-ruby-on-rails/building-a-crud-interface-with-react-and-ruby-on-rails]
+
+* rails       :   4.2.9
+
+* responders  :   2.4.0
+
+* react-rails :   2.2.1
+  
+* database    :   Sqlite
